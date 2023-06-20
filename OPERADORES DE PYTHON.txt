@@ -1,0 +1,70 @@
+Python tiene varios operadores, aquí te muestro una lista completa de los operadores que existen en Python:
+
+Operadores aritméticos:
++ (suma)
+- (resta)
+* (multiplicación)
+/ (división)
+% (módulo)
+** (exponente)
+// (división entera)
+
+
+Operadores de asignación:
+= (asignación)
++= (suma y asignación)
+-= (resta y asignación)
+*= (multiplicación y asignación)
+/= (división y asignación)
+%= (módulo y asignación)
+**= (exponente y asignación)
+//= (división entera y asignación)
+
+
+Operadores de comparación:
+== (igual a)
+!= (diferente de)
+< (menor que)
+> (mayor que)
+<= (menor o igual que)
+>= (mayor o igual que)
+
+
+Operadores lógicos:
+and (y)
+or (o)
+not (no)
+
+
+Operadores de identidad:
+is (es)
+is not (no es)
+
+
+Operadores de pertenencia:
+in (en)
+not in (no en)
+
+
+Operador de concatenación de cadenas:
++ (concatenación)
+
+
+Operador de indexación de cadenas:
+[] (indexación)
+
+
+Operador de slice de cadenas:
+: (slice)
+
+
+Operador de llamada de función:
+() (llamada de función)
+
+
+Operador de acceso de atributo:
+. (acceso de atributo)
+
+
+Operador de declaración de tipo:
+: (declaración de tipo)

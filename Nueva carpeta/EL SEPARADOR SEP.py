@@ -1,0 +1,1 @@
+print("Iron", "Man", sep ="-")

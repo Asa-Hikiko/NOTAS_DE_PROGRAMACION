@@ -1,0 +1,11 @@
+int: números enteros como 1, 2, 3, -4, etc.
+
+float: números de punto flotante como 3.14, 2.0, -0.5, etc.
+
+str: cadenas de texto como "Hola", "Mundo", "123", etc.
+
+list: una secuencia ordenada de elementos como [1, 2, 3], ["a", "b", "c"], etc.
+
+tuple: una secuencia inmutable de elementos como (1, 2, 3), ("a", "b", "c"), etc.
+
+dict: una colección de pares clave-valor como {"nombre": "Juan", "edad": 30}, {"marca": "Ford", "modelo": "Mustang"}, etc.
